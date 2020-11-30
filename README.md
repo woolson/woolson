@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### 👋 Hi there 
 
 I'm a FrontEnd developer work with Nodejs.
 
