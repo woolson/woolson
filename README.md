@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 你好啊！！！
+# 👋 你好啊！！！
 
+![](https://woolson.github.io/npmer-badge/badge/lcri-none-none-I'm-ffffff-555555-%E7%A8%8B%E5%BA%8F%E5%91%98-ffffff-007ec6-r-f-f.svg)
 我是前端开发一名，偶尔做做Nodejs。
 
 ### 🧲 最近在做……
 
-[ ] [开发笔记](https://github.com/woolson/woolson.github.io/issues)
+- [开发笔记](https://github.com/woolson/woolson.github.io/issues)
 
 ### 📫 要联系我？？？
 
