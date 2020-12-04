@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 你好啊！！！
+### 👋 你好啊！！！![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-%20%20%20%20I'm-ffffff-555555-%E7%A8%8B%E5%BA%8F%E5%91%98-ffffff-46bc99-r-f-f.svg)
 
-![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-%20%20%20%20I'm-ffffff-555555-%E7%A8%8B%E5%BA%8F%E5%91%98-ffffff-46bc99-r-f-f.svg)
-![html](https://woolson.github.io/npmer-badge/badge/ilcr-none-none--ffffff-e54d28-HTML-ffffff-555555-r-f-f.svg)
-![css](https://woolson.github.io/npmer-badge/badge/ilcr-none-none--ffffff-3694cd-CSS-ffffff-555555-r-f-f.svg)
-![javascript](https://woolson.github.io/npmer-badge/badge/ilcr-none-none--ffffff-e0bc19-JavaScript-ffffff-555555-r-f-f.svg)<br/>
+![html](https://woolson.github.io/npmer-badge/badge/ilcr-none-none-%20%20%20-444-c52f2f-HTML-444-fbf5f5-r-f-f.svg)
+![css](https://woolson.github.io/npmer-badge/badge/ilcr-none-none-%20%20%20-444-007ec6-CSS-444-e8eaec-r-f-f.svg)
+![javascript](https://woolson.github.io/npmer-badge/badge/ilcr-none-none-%20%20%20-444-f5dd26-JavaScript-444-f8f8f0-r-f-f.svg)<br/>
+
 **我是前端开发一名，偶尔做做Nodejs。**
 
 ### 🧲 最近在做……
