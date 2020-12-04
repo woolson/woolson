@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there 
+### 👋 你好啊！！！
 
-I'm a FrontEnd developer work with Nodejs.
+我是前端开发一名，偶尔做做Nodejs。
 
-### 📘 Working on
+### 📘 最近在做……
 
-[Nearly action](https://github.com/woolson/woolson.github.io/issues)
+[开发笔记](https://github.com/woolson/woolson.github.io/issues)
 
-### 📫 How to reach me
+### 📫 要联系我？？？
 
-- Email: [woolson.lee@qq.com](mailto:woolson.lee@qq.com)
+- 电子邮箱：[woolson.lee@qq.com](mailto:woolson.lee@qq.com)
