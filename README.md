@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![quotes](https://raw.githubusercontent.com/woolson/npmer-badge/master/img/quotes.svg)
 
-[![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-I'm%20developer!-444-e8eaec-I%20love%20it-444-e8eaec-r-f-f.svg)](https://npmer.woolson.cn/)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
+[![i'm](https://woolson.github.io/npmer-badge/badge/ilcr-none-none-I'm%20developer!-ffffff-46bc99-I%20love%20it.-444-e2e8e6-r-f-f.svg)](https://npmer.woolson.cn/)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
 
 > I'm a front end developer, nodejs sometimes.
 
