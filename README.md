@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![quotes](https://raw.githubusercontent.com/woolson/npmer-badge/master/img/quotes.svg)
+![quotes](https://woolson.github.io/npmer-badge/img/quotes.svg)
 
 [![i'm](https://woolson.github.io/npmer-badge/badge/ilcr-none-none-I'm%20developer!-ffffff-46bc99-I%20love%20it.-444-e2e8e6-r-f-f.svg)](https://npmer.woolson.cn/)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
 
