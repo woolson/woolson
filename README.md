@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-%20%20%20%20I'm-444-e8eaec-%E7%A8%8B%E5%BA%8F%E5%91%98-ffffff-46bc99-r-f-f.svg)<sub><a href="https://npmer.woolson.cn/" target="_blank">DIY &raquo;</a></sub>
+![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-%20%20%20%20I'm-444-e8eaec-%E7%A8%8B%E5%BA%8F%E5%91%98-ffffff-46bc99-r-f-f.svg)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
 
 **我是前端开发一名，偶尔做做Nodejs。**
 
 ### 🧲  最近在做……
 
-- 我的[开发笔记](https://github.com/woolson/woolson.github.io/issues)
-- 我的[博客 https://blog.woolson.cn](https://blog.woolson.cn)
+- 我的[项目开发整理](https://github.com/woolson/woolson/issues)
+- 我的个人博客[https://blog.woolson.cn](https://blog.woolson.cn)
 
 ### 📫  要联系我？？？
 
