@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > I'm a front end developer, nodejs sometimes.
 
-### 🧲  Nearly working on……
+### Nearly working on……
 
 - [Work develop note. ](https://github.com/woolson/woolson/issues)
 - My blog. [https://blog.woolson.cn](https://blog.woolson.cn)
