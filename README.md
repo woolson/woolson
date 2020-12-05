@@ -15,21 +15,11 @@ Here are some ideas to get you started:
 
 ![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-%20%20%20%20I'm-444-e8eaec-%E7%A8%8B%E5%BA%8F%E5%91%98-ffffff-46bc99-r-f-f.svg)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
 
-**我是前端开发一名，偶尔做做Nodejs。**
+> I'm a front end developer, nodejs sometimes.
 
-### 🧲  最近在做……
+### 🧲  Nearly working on……
 
-- 我的[项目开发整理](https://github.com/woolson/woolson/issues)
-- 我的个人博客[https://blog.woolson.cn](https://blog.woolson.cn)
+- [Work develop note. ](https://github.com/woolson/woolson/issues)
+- My blog. [https://blog.woolson.cn](https://blog.woolson.cn)
 
-### 📫  要联系我？？？
-
-- 电子邮箱：[woolson.lee@qq.com](mailto:woolson.lee@qq.com)
-
----
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=woolson&layout=compact&count_private=true)
