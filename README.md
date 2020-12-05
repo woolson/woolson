@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://gitlab.com//imgrs/pic/uploads/5868555b5fde01f81f68c8fce15c2920/27429fbab4c.png)
+
 [![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-I'm%20developer!-444-e8eaec-I%20love%20it-444-e8eaec-r-f-f.svg)](https://npmer.woolson.cn/)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
 
 > I'm a front end developer, nodejs sometimes.
