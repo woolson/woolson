@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-%20%20%20%20I'm-444-e8eaec-%E7%A8%8B%E5%BA%8F%E5%91%98-ffffff-46bc99-r-f-f.svg)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
+[![i'm](https://woolson.github.io/npmer-badge/badge/lcri-none-none-I'm%20developer!-444-e8eaec-I%20love%20it-444-e8eaec-r-f-f.svg)](https://npmer.woolson.cn/)<sub><a href="https://npmer.woolson.cn/" target="_blank">&nbsp;DIY &raquo;</a></sub>
 
 > I'm a front end developer, nodejs sometimes.
 
