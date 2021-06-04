@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 - [x] <img src="https://npmer.woolson.cn/icons/favicon.ico" width="16" height="16" /> **[NPMer](https://npmer.woolson.cn/)** - Package badge design online. [for details »](https://blog.woolson.cn/tools/npmer.html)
 - [ ] <img src="https://woolson.cn/task-machine/favicon.svg" width="16" height="16" /> **TaskMachine** - sprint task schedule & analysis tool.
 
-### Nearly working on……
+### Nearly Working On 📝
 
 - [Work develop note. ](https://github.com/woolson/woolson/issues)
 - My blog. [https://blog.woolson.cn](https://blog.woolson.cn)
 - TaskMachine
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=woolson&layout=compact&count_private=true)
+### Most Used Language 🛠
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=woolson&layout=compact&count_private=true&hide_title=true)
