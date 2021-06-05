@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 😄 My Projects 
 
 - [x] <img src="https://todo.microsoft.com/favicon.ico" width="16" height="16" /> **[MsTodo macOS client.](https://blog.woolson.cn/tools/todo-for-macos.html)** - base on electron. 🔥
-- [x] <img src="https://npmer.woolson.cn/icons/favicon.ico" width="16" height="16" /> **[NPMer](https://npmer.woolson.cn/)** - Package badge design online. [for details »](https://blog.woolson.cn/tools/npmer.html) 👍🏼
+- [x] <img src="https://npmer.woolson.cn/icons/favicon.ico" width="16" height="16" /> **[NPMer](https://npmer.woolson.cn/)** - package badge design online. [for details »](https://blog.woolson.cn/tools/npmer.html) 👍🏼
 - [ ] <img src="https://woolson.cn/task-machine/favicon.svg" width="16" height="16" /> **TaskMachine** - sprint task schedule & analysis tool.
 
 ### ✊🏼 Nearly Working On
