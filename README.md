@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 
 ### 😄 My Projects 
 
-- [x] **[Chrome Tab Assistant extension.](https://chromewebstore.google.com/detail/tabassistant-%E6%A0%87%E7%AD%BE%E5%88%86%E7%BB%84%E5%8A%A9%E6%89%8B-%E6%8C%89%E8%A7%84%E5%88%99%E8%87%AA%E5%8A%A8/obdaljfdjocbdmpofhncldmfppjeemda?authuser=0&hl=zh-CN)** - can be used in Edge or Chrome. 🔥
+- [x] **[Tab Assistant extension.](https://chromewebstore.google.com/detail/tabassistant-%E6%A0%87%E7%AD%BE%E5%88%86%E7%BB%84%E5%8A%A9%E6%89%8B-%E6%8C%89%E8%A7%84%E5%88%99%E8%87%AA%E5%8A%A8/obdaljfdjocbdmpofhncldmfppjeemda?authuser=0&hl=zh-CN)** - can be used in Edge or Chrome. 🔥
 - [x] **[MircoSoft Todo macOS client.](https://blog.woolson.cn/tools/todo-for-macos.html)** - base on electron (Removed).
 - [x] **[NPMer](https://npmer.woolson.cn/)** - package badge design online. [for details »](https://blog.woolson.cn/tools/npmer.html) 👍🏼
 
 ### ✊🏼 Nearly Working On
 
-- TaskMachine 🔥
-- [Work develop note. ](https://github.com/woolson/woolson/issues)
+- Tab Assistant extension.
 - My blog. [https://blog.woolson.cn](https://blog.woolson.cn)
 
 ### 🌱 Most Used Language
