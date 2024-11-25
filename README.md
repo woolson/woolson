@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### 😄 My Projects 
 
-- [x] <img src="https://todo.microsoft.com/favicon.ico" width="16" height="16" /> **[MsTodo macOS client.](https://blog.woolson.cn/tools/todo-for-macos.html)** - base on electron. 🔥
-- [x] <img src="https://npmer.woolson.cn/icons/favicon.ico" width="16" height="16" /> **[NPMer](https://npmer.woolson.cn/)** - package badge design online. [for details »](https://blog.woolson.cn/tools/npmer.html) 👍🏼
-- [ ] <img src="https://woolson.cn/task-machine/favicon.svg" width="16" height="16" /> **TaskMachine** - sprint task schedule & analysis tool.
+- [x] **[Chrome Tab Assistant extension.](https://chromewebstore.google.com/detail/tabassistant-%E6%A0%87%E7%AD%BE%E5%88%86%E7%BB%84%E5%8A%A9%E6%89%8B-%E6%8C%89%E8%A7%84%E5%88%99%E8%87%AA%E5%8A%A8/obdaljfdjocbdmpofhncldmfppjeemda?authuser=0&hl=zh-CN)** - can be used in Edge or Chrome. 🔥
+- [x] **[MircoSoft Todo macOS client.](https://blog.woolson.cn/tools/todo-for-macos.html)** - base on electron (Removed).
+- [x] **[NPMer](https://npmer.woolson.cn/)** - package badge design online. [for details »](https://blog.woolson.cn/tools/npmer.html) 👍🏼
 
 ### ✊🏼 Nearly Working On
 
