@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### ✊🏼 Nearly Working On
 
 - Tab Assistant extension.
-- My blog. [https://blog.woolson.cn](https://blog.woolson.cn)
+- My blog. [https://woolson.github.io](https://woolson.github.io)
 
 ### 🌱 Most Used Language
 
