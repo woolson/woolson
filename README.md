@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 - [x] **[Tab Assistant extension.](https://chromewebstore.google.com/detail/tabassistant-%E6%A0%87%E7%AD%BE%E5%88%86%E7%BB%84%E5%8A%A9%E6%89%8B-%E6%8C%89%E8%A7%84%E5%88%99%E8%87%AA%E5%8A%A8/obdaljfdjocbdmpofhncldmfppjeemda?authuser=0&hl=zh-CN)** - can be used in Edge or Chrome.
 - [x] **[MircoSoft Todo macOS client.](https://blog.woolson.cn/tools/todo-for-macos.html)** - base on electron (Removed).
 
-### ✊🏼 Nearly Working On
-
-- Tab Assistant extension.
-- My blog. [https://woolson.github.io](https://woolson.github.io)
-
 ### 🌱 Most Used Language
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=woolson&layout=compact&count_private=true&hide_title=true)
